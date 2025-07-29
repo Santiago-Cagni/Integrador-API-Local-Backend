@@ -35,7 +35,7 @@ Asegúrate de tener instalado lo siguiente:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone AGREGAR URL
+    git clone (https://github.com/Santiago-Cagni/Integrador-API-Local-Backend.git)
     cd api-peliculas
     ```
 2.  **Instala las dependencias:**
