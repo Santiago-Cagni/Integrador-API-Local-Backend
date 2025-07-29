@@ -75,6 +75,7 @@ Aquí están los endpoints disponibles:
         * `http://localhost:3000/movies/search?director=Nolan`
 
 ## 📄 Estructura del Proyecto
+```
 api-peliculas/
 ├── src/
 │   ├── controllers/
@@ -93,4 +94,5 @@ api-peliculas/
 ├── .gitignore
 ├── README.md
 └── ...otros archivos de configuración
+```
 
